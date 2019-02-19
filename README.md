@@ -1,4 +1,6 @@
 # buildgame
+This project is incomplete.
+-----------------------------------------------------------------------------------------------
 Hello!
 
-This little program exists for the purpose of building simple "scratch-like" games.
+This program exists for the purpose of building simple "scratch-like" games.
